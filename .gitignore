@@ -1,0 +1,6 @@
+exemplos/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+resultados/
